@@ -1,33 +1,3 @@
-# ZsxAlex.github.io
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ZsxAlex 
-ZsxAlex
-/
-ZsxAlex.github.io
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-ZsxAlex.github.io/index.html
-@ZsxAlex
-ZsxAlex Create index.html
-Latest commit 88c3a00 20 seconds ago
- History
- 1 contributor
-28 lines (28 sloc)  817 Bytes
-   
 <!DOCTYPE html>
 <html>
 	<head>
@@ -56,16 +26,3 @@ Latest commit 88c3a00 20 seconds ago
 		</footer>
 	</body>
 </html>
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
