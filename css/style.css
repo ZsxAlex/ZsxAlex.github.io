@@ -1,9 +1,13 @@
 <style>
+  main  {
+  background-color: green;
+}
   body  {
-  background-color: lightblue;
+  background-color: black;
 }
   p {
     color: red;
+    background-color: pink;
 }
   .smaller-image {
     border-radius: 50%;
