@@ -6,12 +6,4 @@
     width: 100px;
     border-radius: 50%;
 }
-  .container {
-      position: relative;
-      border: 2px solid #006100;
-}
-  .centered-element {
-    margin: 0;
-    position: absolute;
-}
 </style>
