@@ -35,6 +35,11 @@ ul {
 li {
   float: right;
 }
+li a {
+     display: block;
+     color: white;
+     
+}
 
      
  </style>
