@@ -21,4 +21,14 @@ body {
      background-color: rgba(45, 45, 45, 0.5);
      font-size: 45px;
 }
+ul {
+    list-style-type: none;
+     margin: 0;
+    padding: 0;
+}
+li {
+     display: inline;
+     
+}
+     
  </style>
