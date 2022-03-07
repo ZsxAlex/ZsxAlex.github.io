@@ -13,6 +13,8 @@ main {
  .smaller-image {
      border-radius: 50%;
      width: 100px;
+     align-items: center;
+      center: 100px;
 }
 body {
      background-color: rgba(45, 45, 45, 0.5);
